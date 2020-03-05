@@ -10,10 +10,15 @@
            div .list {
                color:violet;
            }
-    
+            div > p {
+                color:red;
+            } 
+            
+            div + p {
+                color:blue;
+            }
         </style>
       
-        <div>
         <ol>  
            <div class="list"><li>list items </li>
             <li>list items </li></div>  
@@ -22,13 +27,15 @@
         <p>
             make this text red using a child selector
         </p>
+     </div>
+    
         <p>
             make this text blue using an adjacent selector
         </p>
         <ul>
             <li>make this text orange using a general sibling selector; <em>and this phrase pink by combining 2 types of selectors</em></li>
         </ul>
-    </div>
+    
 </body>
 
 </html>
