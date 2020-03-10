@@ -50,3 +50,19 @@ body {
     margin-top: 25px; 
     padding: 15px 30px;       
 }
+
+#what {
+    background-color:#82DDB5;
+    background: #1fe9;
+    margin-top: 360px;
+    text-align: center;
+    
+}
+
+#sponsor_logos{
+    max-height: 100px;
+    max-width: 500px;
+    margin: auto
+
+    
+}
