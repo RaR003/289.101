@@ -70,7 +70,6 @@ body {
     max-width: 300px;
     margin: auto;
     
-    
 }
 
 .center {
@@ -91,36 +90,42 @@ body {
     
 }
 
-
-#where {
-
- position: relative;
-    max-width: none;
+#map{
+   text-align: center;
+   
     
+    
+}
+
+.title-block{
+ position: absolute;
+  bottom: 600px;
+  right: 1330px;
+  color: purple;
+  padding-left: 10px;
+  padding-right: 20px;
+    font-size: 30pt;
+
 }
 
 .text-block{ 
     text-align: right;
     position: absolute;
     bottom: 460px;
-    right: 500px;
+    right: 1100px;
     color: purple;
     padding-left: 10px;
     padding-right: 20px;
     font-size: 14pt;
     word-spacing: 4px;
     
-    
-
 }
-.title-block{
-    position: absolute;
-  bottom: 600px;
-  right: 730px;
-  color: purple;
-  padding-left: 10px;
-  padding-right: 20px;
-    font-size: 15pt;
+
+
+#where { 
+    position: relative;
+    max-width: none;
+    margin: auto;
     
 }
 
