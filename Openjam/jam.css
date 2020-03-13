@@ -100,7 +100,7 @@ body {
 .title-block{
  position: absolute;
   bottom: 600px;
-  right: 1330px;
+  right: 850px;
   color: purple;
   padding-left: 10px;
   padding-right: 20px;
@@ -112,7 +112,7 @@ body {
     text-align: right;
     position: absolute;
     bottom: 460px;
-    right: 1100px;
+    right: 600px;
     color: purple;
     padding-left: 10px;
     padding-right: 20px;
